@@ -1,2 +1,2 @@
 # ThesisProject
-An application of Breast Cancer Detection using Deep Learning and Transfer Learning based Mammography Images
+An Application of Deep Learning and Transfer Learning for Breast Cancer Detection Using Mammography Images.
